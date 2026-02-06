@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nombre": "Ana Torres", "carrera": "Ingeniería TICs" },
+  { "id": 2, "nombre": "Luis Pérez", "carrera": "Sistemas" },
+  { "id": 3, "nombre": "María Gómez", "carrera": "Redes" },
+  { "id": 4, "nombre": "Veronica Campoverde", "carrera": "Ingeniería TICs" }
+]
